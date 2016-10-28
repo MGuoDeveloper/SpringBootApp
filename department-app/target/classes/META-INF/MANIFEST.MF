@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: department-app
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Meng
+Implementation-Vendor-Id: department-app
+Build-Jdk: 1.8.0_74
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: department.Application
+
